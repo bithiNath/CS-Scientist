@@ -1,0 +1,884 @@
+[
+    {
+        "Rank":{
+            "text":"1"
+        },
+        "Name":{
+            "text":"University of Oxford ,United Kingdom",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/university-oxford",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnxQAAS"
+            ]
+        },
+        "Overall":{
+            "text":"98.2"
+        },
+        "Teaching":{
+            "text":"97.2"
+        },
+        "Research Environment":{
+            "text":"100.0"
+        },
+        "Research Quality":{
+            "text":"97.7"
+        },
+        "Industry":{
+            "text":"99.9"
+        },
+        "International Outlook":{
+            "text":"96.4"
+        }
+    },
+    {
+        "Rank":{
+            "text":"2"
+        },
+        "Name":{
+            "text":"Massachusetts Institute of Technology ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/massachusetts-institute-technology",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"97.7"
+        },
+        "Teaching":{
+            "text":"99.2"
+        },
+        "Research Environment":{
+            "text":"95.3"
+        },
+        "Research Quality":{
+            "text":"99.6"
+        },
+        "Industry":{
+            "text":"100.0"
+        },
+        "International Outlook":{
+            "text":"91.9"
+        }
+    },
+    {
+        "Rank":{
+            "text":"=3"
+        },
+        "Name":{
+            "text":"Princeton University ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/princeton-university",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"97.2"
+        },
+        "Teaching":{
+            "text":"98.2"
+        },
+        "Research Environment":{
+            "text":"97.3"
+        },
+        "Research Quality":{
+            "text":"99.0"
+        },
+        "Industry":{
+            "text":"98.0"
+        },
+        "International Outlook":{
+            "text":"85.4"
+        }
+    },
+    {
+        "Rank":{
+            "text":"=3"
+        },
+        "Name":{
+            "text":"University of Cambridge ,United Kingdom",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/university-cambridge",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnxQAAS"
+            ]
+        },
+        "Overall":{
+            "text":"97.2"
+        },
+        "Teaching":{
+            "text":"96.2"
+        },
+        "Research Environment":{
+            "text":"99.9"
+        },
+        "Research Quality":{
+            "text":"97.1"
+        },
+        "Industry":{
+            "text":"87.6"
+        },
+        "International Outlook":{
+            "text":"96.3"
+        }
+    },
+    {
+        "Rank":{
+            "text":"=5"
+        },
+        "Name":{
+            "text":"Harvard University ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/harvard-university",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"97.1"
+        },
+        "Teaching":{
+            "text":"95.9"
+        },
+        "Research Environment":{
+            "text":"100.0"
+        },
+        "Research Quality":{
+            "text":"98.9"
+        },
+        "Industry":{
+            "text":"86.7"
+        },
+        "International Outlook":{
+            "text":"88.3"
+        }
+    },
+    {
+        "Rank":{
+            "text":""
+        },
+        "Name":null,
+        "Overall":null,
+        "Teaching":null,
+        "Research Environment":null,
+        "Research Quality":null,
+        "Industry":null,
+        "International Outlook":null
+    },
+    {
+        "Rank":{
+            "text":"=5"
+        },
+        "Name":{
+            "text":"Stanford University ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/stanford-university",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"97.1"
+        },
+        "Teaching":{
+            "text":"97.5"
+        },
+        "Research Environment":{
+            "text":"97.4"
+        },
+        "Research Quality":{
+            "text":"99.5"
+        },
+        "Industry":{
+            "text":"100.0"
+        },
+        "International Outlook":{
+            "text":"83.9"
+        }
+    },
+    {
+        "Rank":{
+            "text":"7"
+        },
+        "Name":{
+            "text":"California Institute of Technology ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/california-institute-technology",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"96.3"
+        },
+        "Teaching":{
+            "text":"96.4"
+        },
+        "Research Environment":{
+            "text":"97.4"
+        },
+        "Research Quality":{
+            "text":"96.8"
+        },
+        "Industry":{
+            "text":"100.0"
+        },
+        "International Outlook":{
+            "text":"87.9"
+        }
+    },
+    {
+        "Rank":{
+            "text":"8"
+        },
+        "Name":{
+            "text":"Imperial College London ,United Kingdom",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/imperial-college-london",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnxQAAS"
+            ]
+        },
+        "Overall":{
+            "text":"94.7"
+        },
+        "Teaching":{
+            "text":"90.6"
+        },
+        "Research Environment":{
+            "text":"94.9"
+        },
+        "Research Quality":{
+            "text":"98.0"
+        },
+        "Industry":{
+            "text":"91.9"
+        },
+        "International Outlook":{
+            "text":"98.2"
+        }
+    },
+    {
+        "Rank":{
+            "text":"9"
+        },
+        "Name":{
+            "text":"University of California, Berkeley ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/university-california-berkeley",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"94.4"
+        },
+        "Teaching":{
+            "text":"87.3"
+        },
+        "Research Environment":{
+            "text":"99.0"
+        },
+        "Research Quality":{
+            "text":"98.9"
+        },
+        "Industry":{
+            "text":"99.5"
+        },
+        "International Outlook":{
+            "text":"83.9"
+        }
+    },
+    {
+        "Rank":{
+            "text":"10"
+        },
+        "Name":{
+            "text":"Yale University ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/yale-university",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"94.1"
+        },
+        "Teaching":{
+            "text":"94.6"
+        },
+        "Research Environment":{
+            "text":"94.5"
+        },
+        "Research Quality":{
+            "text":"97.2"
+        },
+        "Industry":{
+            "text":"87.6"
+        },
+        "International Outlook":{
+            "text":"81.4"
+        }
+    },
+    {
+        "Rank":{
+            "text":"11"
+        },
+        "Name":{
+            "text":"ETH Zurich ,Switzerland",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/eth-zurich",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnxqAAC"
+            ]
+        },
+        "Overall":{
+            "text":"93.1"
+        },
+        "Teaching":{
+            "text":"88.5"
+        },
+        "Research Environment":{
+            "text":"97.2"
+        },
+        "Research Quality":{
+            "text":"94.5"
+        },
+        "Industry":{
+            "text":"83.7"
+        },
+        "International Outlook":{
+            "text":"95.1"
+        }
+    },
+    {
+        "Rank":{
+            "text":"12"
+        },
+        "Name":{
+            "text":"Tsinghua University ,China",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/tsinghua-university",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnwKAAS"
+            ]
+        },
+        "Overall":{
+            "text":"93.0"
+        },
+        "Teaching":{
+            "text":"95.9"
+        },
+        "Research Environment":{
+            "text":"98.5"
+        },
+        "Research Quality":{
+            "text":"93.9"
+        },
+        "Industry":{
+            "text":"100.0"
+        },
+        "International Outlook":{
+            "text":"53.4"
+        }
+    },
+    {
+        "Rank":{
+            "text":"13"
+        },
+        "Name":{
+            "text":"Peking University ,China",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/peking-university",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnwKAAS"
+            ]
+        },
+        "Overall":{
+            "text":"92.3"
+        },
+        "Teaching":{
+            "text":"95.4"
+        },
+        "Research Environment":{
+            "text":"97.9"
+        },
+        "Research Quality":{
+            "text":"89.0"
+        },
+        "Industry":{
+            "text":"100.0"
+        },
+        "International Outlook":{
+            "text":"67.3"
+        }
+    },
+    {
+        "Rank":{
+            "text":"14"
+        },
+        "Name":{
+            "text":"University of Pennsylvania ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/university-pennsylvania",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"90.8"
+        },
+        "Teaching":{
+            "text":"88.1"
+        },
+        "Research Environment":{
+            "text":"90.3"
+        },
+        "Research Quality":{
+            "text":"96.1"
+        },
+        "Industry":{
+            "text":"97.9"
+        },
+        "International Outlook":{
+            "text":"78.4"
+        }
+    },
+    {
+        "Rank":{
+            "text":"15"
+        },
+        "Name":{
+            "text":"The University of Chicago ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/university-chicago",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"90.6"
+        },
+        "Teaching":{
+            "text":"89.6"
+        },
+        "Research Environment":{
+            "text":"90.1"
+        },
+        "Research Quality":{
+            "text":"96.8"
+        },
+        "Industry":{
+            "text":"76.4"
+        },
+        "International Outlook":{
+            "text":"79.7"
+        }
+    },
+    {
+        "Rank":{
+            "text":""
+        },
+        "Name":null,
+        "Overall":null,
+        "Teaching":null,
+        "Research Environment":null,
+        "Research Quality":null,
+        "Industry":null,
+        "International Outlook":null
+    },
+    {
+        "Rank":{
+            "text":"16"
+        },
+        "Name":{
+            "text":"Johns Hopkins University ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/johns-hopkins-university",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"90.1"
+        },
+        "Teaching":{
+            "text":"84.6"
+        },
+        "Research Environment":{
+            "text":"89.9"
+        },
+        "Research Quality":{
+            "text":"96.3"
+        },
+        "Industry":{
+            "text":"100.0"
+        },
+        "International Outlook":{
+            "text":"81.9"
+        }
+    },
+    {
+        "Rank":{
+            "text":"17"
+        },
+        "Name":{
+            "text":"National University of Singapore ,Singapore",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/national-university-singapore",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnwXAAS"
+            ]
+        },
+        "Overall":{
+            "text":"89.7"
+        },
+        "Teaching":{
+            "text":"78.6"
+        },
+        "Research Environment":{
+            "text":"93.1"
+        },
+        "Research Quality":{
+            "text":"95.1"
+        },
+        "Industry":{
+            "text":"99.9"
+        },
+        "International Outlook":{
+            "text":"92.8"
+        }
+    },
+    {
+        "Rank":{
+            "text":"=18"
+        },
+        "Name":{
+            "text":"Cornell University ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/cornell-university",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"89.5"
+        },
+        "Teaching":{
+            "text":"85.9"
+        },
+        "Research Environment":{
+            "text":"90.6"
+        },
+        "Research Quality":{
+            "text":"95.9"
+        },
+        "Industry":{
+            "text":"70.3"
+        },
+        "International Outlook":{
+            "text":"83.5"
+        }
+    },
+    {
+        "Rank":{
+            "text":"=18"
+        },
+        "Name":{
+            "text":"University of California, Los Angeles ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/university-california-los-angeles",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"89.5"
+        },
+        "Teaching":{
+            "text":"86.0"
+        },
+        "Research Environment":{
+            "text":"91.4"
+        },
+        "Research Quality":{
+            "text":"95.6"
+        },
+        "Industry":{
+            "text":"93.5"
+        },
+        "International Outlook":{
+            "text":"69.2"
+        }
+    },
+    {
+        "Rank":{
+            "text":"20"
+        },
+        "Name":{
+            "text":"Columbia University ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/columbia-university",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"89.4"
+        },
+        "Teaching":{
+            "text":"87.8"
+        },
+        "Research Environment":{
+            "text":"87.8"
+        },
+        "Research Quality":{
+            "text":"95.9"
+        },
+        "Industry":{
+            "text":"74.8"
+        },
+        "International Outlook":{
+            "text":"83.7"
+        }
+    },
+    {
+        "Rank":{
+            "text":"21"
+        },
+        "Name":{
+            "text":"University of Toronto ,Canada",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/university-toronto",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyDAAS"
+            ]
+        },
+        "Overall":{
+            "text":"88.5"
+        },
+        "Teaching":{
+            "text":"78.2"
+        },
+        "Research Environment":{
+            "text":"92.9"
+        },
+        "Research Quality":{
+            "text":"92.3"
+        },
+        "Industry":{
+            "text":"95.8"
+        },
+        "International Outlook":{
+            "text":"92.3"
+        }
+    },
+    {
+        "Rank":{
+            "text":"22"
+        },
+        "Name":{
+            "text":"UCL ,United Kingdom",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/ucl",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnxQAAS"
+            ]
+        },
+        "Overall":{
+            "text":"87.5"
+        },
+        "Teaching":{
+            "text":"77.8"
+        },
+        "Research Environment":{
+            "text":"85.9"
+        },
+        "Research Quality":{
+            "text":"97.6"
+        },
+        "Industry":{
+            "text":"74.7"
+        },
+        "International Outlook":{
+            "text":"97.5"
+        }
+    },
+    {
+        "Rank":{
+            "text":"23"
+        },
+        "Name":{
+            "text":"University of Michigan-Ann Arbor ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/university-michigan-ann-arbor",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"86.9"
+        },
+        "Teaching":{
+            "text":"85.7"
+        },
+        "Research Environment":{
+            "text":"87.3"
+        },
+        "Research Quality":{
+            "text":"93.8"
+        },
+        "Industry":{
+            "text":"81.4"
+        },
+        "International Outlook":{
+            "text":"65.8"
+        }
+    },
+    {
+        "Rank":{
+            "text":"24"
+        },
+        "Name":{
+            "text":"Carnegie Mellon University ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/carnegie-mellon-university",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"85.0"
+        },
+        "Teaching":{
+            "text":"72.7"
+        },
+        "Research Environment":{
+            "text":"83.0"
+        },
+        "Research Quality":{
+            "text":"99.0"
+        },
+        "Industry":{
+            "text":"85.5"
+        },
+        "International Outlook":{
+            "text":"84.3"
+        }
+    },
+    {
+        "Rank":{
+            "text":"25"
+        },
+        "Name":{
+            "text":"University of Washington ,United States",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/university-washington",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnyEAAS"
+            ]
+        },
+        "Overall":{
+            "text":"83.7"
+        },
+        "Teaching":{
+            "text":"77.0"
+        },
+        "Research Environment":{
+            "text":"80.0"
+        },
+        "Research Quality":{
+            "text":"97.6"
+        },
+        "Industry":{
+            "text":"81.6"
+        },
+        "International Outlook":{
+            "text":"70.1"
+        }
+    },
+    {
+        "Rank":{
+            "text":""
+        },
+        "Name":null,
+        "Overall":null,
+        "Teaching":null,
+        "Research Environment":null,
+        "Research Quality":null,
+        "Industry":null,
+        "International Outlook":null
+    },
+    {
+        "Rank":{
+            "text":"26"
+        },
+        "Name":{
+            "text":"The University of Tokyo ,Japan",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/university-tokyo",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnwLAAS"
+            ]
+        },
+        "Overall":{
+            "text":"83.5"
+        },
+        "Teaching":{
+            "text":"94.7"
+        },
+        "Research Environment":{
+            "text":"94.2"
+        },
+        "Research Quality":{
+            "text":"68.2"
+        },
+        "Industry":{
+            "text":"100.0"
+        },
+        "International Outlook":{
+            "text":"50.8"
+        }
+    },
+    {
+        "Rank":{
+            "text":"27"
+        },
+        "Name":{
+            "text":"Technical University of Munich ,Germany",
+            "links":[
+                "https:\/\/www.timeshighereducation.com\/world-university-rankings\/technical-university-munich",
+                "https:\/\/www.timeshighereducation.com\/location\/a4zw0000000GnxlAAC"
+            ]
+        },
+        "Overall":{
+            "text":"83.4"
+        },
+        "Teaching":{
+            "text":"71.9"
+        },
+        "Research Environment":{
+            "text":"84.8"
+        },
+        "Research Quality":{
+            "text":"91.3"
+        },
+        "Industry":{
+            "text":"100.0"
+        },
+        "International Outlook":{
+            "text":"83.4"
+        }
+    },
+    {
+        "Rank":{
+            "text":""
+        },
+        "Name":null,
+        "Overall":null,
+        "Teaching":null,
+        "Research Environment":null,
+        "Research Quality":null,
+        "Industry":null,
+        "International Outlook":null
+    },
+    {
+        "Rank":{
+            "text":""
+        },
+        "Name":null,
+        "Overall":null,
+        "Teaching":null,
+        "Research Environment":null,
+        "Research Quality":null,
+        "Industry":null,
+        "International Outlook":null
+    },
+    {
+        "Rank":{
+            "text":""
+        },
+        "Name":null,
+        "Overall":null,
+        "Teaching":null,
+        "Research Environment":null,
+        "Research Quality":null,
+        "Industry":null,
+        "International Outlook":null
+    }
+]
