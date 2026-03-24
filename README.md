@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ```
 
-6. You will get a file named 'scraped_data.csv' containing all the required fields.
+6. You will get a file named `scraped_data.csv` containing all the required fields.
 
 Alternatively, Check the scraped data here: https://github.com/bithiNath/CS-Scientist/blob/main/selenium_scraper/scraped_data.csv
 
